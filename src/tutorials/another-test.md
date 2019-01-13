@@ -1,5 +1,5 @@
 ---
-path: "/anothr-test"
+path: "/another-test"
 title: "Testing even more"
 author: "Luuk"
 ---
